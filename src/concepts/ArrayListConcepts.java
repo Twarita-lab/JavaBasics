@@ -28,6 +28,7 @@ public class ArrayListConcepts {
 		arrayListName.set(2, "Element3");
 		System.out.println(arrayListName);
 		System.out.println(arrayListName.size());
+		
 		arrayListName.clear();
 		System.out.println(arrayListName);
 		
